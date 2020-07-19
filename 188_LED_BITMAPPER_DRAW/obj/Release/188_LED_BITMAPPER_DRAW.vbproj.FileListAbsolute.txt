@@ -1,0 +1,18 @@
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\bin\Release\188_LED_BITMAPPER_DRAW.exe.manifest
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\bin\Release\188_LED_BITMAPPER_DRAW.application
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\bin\Release\188_LED_BITMAPPER_DRAW.exe
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\bin\Release\188_LED_BITMAPPER_DRAW.pdb
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\bin\Release\LED Sign M & C v.1.xml
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\bin\Release\ImageMagnifier.dll
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.vbprojAssemblyReference.cache
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\bitmapperdraw.Form1.resources
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\bitmapperdraw.Resources.resources
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.vbproj.GenerateResource.cache
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.vbproj.CoreCompileInputs.cache
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.TrustInfo.xml
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.exe.manifest
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.application
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.vbproj.CopyComplete
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.exe
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\LED Sign M & C v.1.xml
+C:\Users\Tower\Desktop\Twitch Badge\188_LED_BITMAPPER_DRAW\188_LED_BITMAPPER_DRAW\obj\Release\188_LED_BITMAPPER_DRAW.pdb
