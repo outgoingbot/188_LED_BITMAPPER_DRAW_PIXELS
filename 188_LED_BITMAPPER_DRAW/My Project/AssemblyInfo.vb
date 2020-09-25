@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("188_LED_BITMAPPER_DRAW")>
-<Assembly: AssemblyCopyright("Copyright ©  2014")> 
+<Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>

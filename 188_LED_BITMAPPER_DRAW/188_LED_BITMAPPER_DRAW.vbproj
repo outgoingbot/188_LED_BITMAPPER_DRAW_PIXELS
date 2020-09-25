@@ -154,7 +154,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Image1.ico" />
-    <None Include="Resources\1.bmp" />
+    <None Include="Resources\asset1.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
